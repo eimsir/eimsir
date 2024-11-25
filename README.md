@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Moepoi ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+I'm Eggy (19 y.o) ! :sunglasses:
 
 I'd like to do project that has relation to anime. :ghost:
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![HTML5](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=javascript)
-![Github](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%230175C2.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%2302569B.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFFFF.svg?style=for-the-badge&logo=javascript)
+![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
 :star: Here are some projects that I'm working on:
 - Playing Game :video_game:
@@ -21,11 +21,33 @@ I'd like to do project that has relation to anime. :ghost:
 <img src="https://img.anili.st/user/161753" width="500">
 
 <details>
+<summary>:video_game: List Favorites Game</summary>
+
+<!-- favorites_anime starts -->
+* Mobile Legends
+* Arena Breakout
+<!-- favorites_anime ends -->
+
+</details>
+
+<details>
 <summary>:tv: List Favorites Anime</summary>
   
 <!-- favorites_anime starts -->
-* [NARUTO](
+* [NARUTO](https://anilist.co/anime/20/)
+* [NARUTO: Shippuuden](https://anilist.co/anime/1735/)
 * [Tensei Shitara Slime Datta Ken](https://anilist.co/anime/101280/)
+* [Black Clover](https://anilist.co/anime/97940/)
+* [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298/)
+* [Jujutsu Kaisen](https://anilist.co/anime/113415/)
+* [Ore dake Level Up na Ken](https://anilist.co/anime/151807/)
+* [Chainsaw Man](https://anilist.co/anime/127230/)
+* [Tate no Yuusha no Nariagari](https://anilist.co/anime/99263/)
+* [Seirei Gensouki](https://anilist.co/anime/126546/)
+* [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://anilist.co/anime/129898/)
+* [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332/)
+* [Charlotte](https://anilist.co/anime/20997/)
+* [Horimiya](https://anilist.co/anime/124080/)
 <!-- favorites_anime ends -->
 
 </details>
