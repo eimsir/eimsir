@@ -22,8 +22,9 @@
 <summary>:video_game: List Favorites Games</summary>
 
 <!-- favorites_games starts -->
-* [Mobile Legends](https://m.mobilelegends.com/) id: 602945945
-* [Arena Breakout](https://arenabreakout.com/) id: 3755348833
+* [Mobile Legends](https://m.mobilelegends.com/) 
+* [Arena Breakout](https://arenabreakout.com/) 
+* [PUBG Mobile](https://www.pubgmobile.com/) 
 <!-- favorites_games ends -->
 
 </details>
