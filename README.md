@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://img.anili.st/user/161753" width="500">
+<!--<img src="https://img.anili.st/user/161753" width="500">-->
 
 <details>
 <summary>:video_game: List Favorites Games</summary>
@@ -107,29 +107,14 @@
   
 <!-- favorites_characters starts -->
 * [Mahiru Shiina](https://anilist.co/character/195602)
-* [Mini Yaemori](https://anilist.co/character/153703)
-* [Loo](https://anilist.co/character/293202)
-* [Mukuro Hoshimiya](https://anilist.co/character/157109)
-* [Akari Watanabe](https://anilist.co/character/191672)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Kuon](https://anilist.co/character/126823)
-* [Vladilena Milizé](https://anilist.co/character/141061)
 * [Yor Forger](https://anilist.co/character/138102)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Celia Claire](https://anilist.co/character/161678)
 * [Kyouko Hori](https://anilist.co/character/66171)
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Yuuko Yoshida](https://anilist.co/character/141461)
-* [Ziyu Zhou](https://anilist.co/character/234726)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Ninym Ralei](https://anilist.co/character/206374)
 * [Marin Kitagawa](https://anilist.co/character/133676)
-* [Holo](https://anilist.co/character/7373)
-* [Ayako Kuroba](https://anilist.co/character/200612)
-* [Nepgear](https://anilist.co/character/49927)
-* [Jibril](https://anilist.co/character/87887)
 <!-- favorites_characters ends -->
 
 </details>
