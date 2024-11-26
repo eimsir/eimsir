@@ -2,7 +2,12 @@
 
 I'm Eggy (19 y.o) ! :sunglasses:
 
-I'd like to do project that has relation to anime. :ghost:
+:man_student: Hello everyone my name is Eggy Immanuel Siregar I am 19 years old, currently I am studying at Batam State Polytechnic, majoring in computer engineering, D4 multimedia engineering technology study program.
+
+:star: My hobby is:
+- Playing Game :video_game:
+- Reading Comic, Manhua and Manhwa :book:
+- Watching Anime, Movie :tv:
 
 :page_with_curl: I'm currently learning:
 <br><br>
@@ -11,22 +16,17 @@ I'd like to do project that has relation to anime. :ghost:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFFFF.svg?style=for-the-badge&logo=javascript)
 ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
-:star: Here are some projects that I'm working on:
-- Playing Game :video_game:
-- Reading Comic, Manhua and Manhwa :book:
-- Watching Anime, Drakor :tv:
-
 <br>
 
 <img src="https://img.anili.st/user/161753" width="500">
 
 <details>
-<summary>:video_game: List Favorites Game</summary>
+<summary>:video_game: List Favorites Games</summary>
 
-<!-- favorites_anime starts -->
+<!-- favorites_games starts -->
 * Mobile Legends
 * Arena Breakout
-<!-- favorites_anime ends -->
+<!-- favorites_games ends -->
 
 </details>
 
@@ -63,16 +63,16 @@ I'd like to do project that has relation to anime. :ghost:
 <details>
 <summary>:book: List Favorites Manhua</summary>
   
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
+<!-- favorites_manhua starts -->
+<!-- favorites_manhua ends -->
 
 </details>
 
 <details>
 <summary>:book: List Favorites Manhwa</summary>
   
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
+<!-- favorites_manhwa starts -->
+<!-- favorites_manhwa ends -->
 
 </details>
 
@@ -110,6 +110,9 @@ I'd like to do project that has relation to anime. :ghost:
 
 Feel free to contact me :yum:
 <br><br>
-<a href="https://instagram.com/gyy.siregar" target="_blank"><img src="https://img.shields.io/badge/Instagram%40gyy.siregar-28a8ea"></a>
-<a href="https://linkedin.com/in/gyysiregar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gyysiregar-informational"></a>
-<a href="mailto:eggyimmanuel@gmail.com"><img src="https://img.shields.io/badge/Email-eggyimmanuel@gmail.com-orange"></a>
+<a href="wa.me/08566286514" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="facebook.com/siregar.gyy" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="instagram.com/gyy.siregar" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="wa.me/08566286514" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-%2302569B.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="tiktok.com/@gyy.siregar" target="_blank">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok)</a>
+<a href="mailto:eggyimmanuel@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=red)</a>
