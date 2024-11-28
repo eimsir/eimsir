@@ -14,13 +14,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFFFF.svg?style=for-the-badge&logo=javascript)
 ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
-
-<!--<img src="https://img.anili.st/user/161753" width="500">-->
+<img src="/img/welcome.jpg" width="500">
 
 <details>
 <summary>:video_game: List Favorites Games</summary>
-
 <!-- favorites_games starts -->
 * [Mobile Legends](https://m.mobilelegends.com/) 
 * [Arena Breakout](https://arenabreakout.com/) 
