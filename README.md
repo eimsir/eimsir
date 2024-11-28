@@ -124,7 +124,7 @@ Feel free to contact me :yum:
 <br><br>
 <a href="https://wa.me/628566286514" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="https://facebook.com/siregar.gyy" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://instagram.com/gyy.siregar" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://instagram.com/siregar.gyy" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://linkedin.com/in/gyysiregar" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-%2302569B.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://tiktok.com/@gyy.siregar" target="_blank">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok)</a>
 <a href="mailto:eggyimmanuel@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=red)</a>
