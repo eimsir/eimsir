@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:man_student: Hello everyone my name is Eggy Immanuel Siregar I am 19 years old, currently I am studying at Batam State Polytechnic, majoring in computer engineering, D4 multimedia engineering technology study program. :sunglasses:
+:man_student: Hello everyone my name is Eggy Immanuel Siregar I am 19 years old, currently I am studying at Batam State Polytechnic, majoring in Computer Engineering, D4 Multimedia Engineering Technology Study Program. :sunglasses:
 
 :star: My hobby is:
 - Playing Game :video_game:
